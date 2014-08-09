@@ -1,0 +1,3 @@
+[submodule "motd"]
+	path = motd
+	url = https://github.com/johnko-chef/motd.git
