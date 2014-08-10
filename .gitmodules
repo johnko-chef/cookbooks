@@ -1,3 +1,6 @@
 [submodule "system"]
 	path = system
 	url = https://github.com/johnko-chef/system.git
+[submodule "motd-tail"]
+	path = motd-tail
+	url = https://github.com/johnko-chef/motd-tail.git
