@@ -16,3 +16,6 @@
 [submodule "openssh"]
 	path = openssh
 	url = https://github.com/johnko-chef/openssh.git
+[submodule "iptables"]
+	path = iptables
+	url = https://github.com/johnko-chef/iptables.git
