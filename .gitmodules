@@ -19,3 +19,6 @@
 [submodule "iptables"]
 	path = iptables
 	url = https://github.com/johnko-chef/iptables.git
+[submodule "sshd-config"]
+	path = sshd-config
+	url = https://github.com/johnko-chef/sshd-config.git
