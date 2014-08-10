@@ -7,3 +7,6 @@
 [submodule "motd"]
 	path = motd
 	url = https://github.com/johnko-chef/motd.git
+[submodule "resolver"]
+	path = resolver
+	url = https://github.com/johnko-chef/resolver.git
