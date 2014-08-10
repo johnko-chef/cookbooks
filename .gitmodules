@@ -4,3 +4,6 @@
 [submodule "motd-tail"]
 	path = motd-tail
 	url = https://github.com/johnko-chef/motd-tail.git
+[submodule "motd"]
+	path = motd
+	url = https://github.com/johnko-chef/motd.git
