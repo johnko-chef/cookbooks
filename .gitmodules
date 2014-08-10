@@ -13,3 +13,6 @@
 [submodule "sysrc"]
 	path = sysrc
 	url = https://github.com/johnko-chef/sysrc.git
+[submodule "openssh"]
+	path = openssh
+	url = https://github.com/johnko-chef/openssh.git
