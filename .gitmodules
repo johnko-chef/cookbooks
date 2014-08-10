@@ -13,3 +13,6 @@
 [submodule "pkgng"]
 	path = pkgng
 	url = https://github.com/johnko-chef/pkgng.git
+[submodule "sysrc"]
+	path = sysrc
+	url = https://github.com/johnko-chef/sysrc.git
