@@ -22,3 +22,6 @@
 [submodule "sysrc"]
 	path = sysrc
 	url = https://github.com/johnko-chef/sysrc.git
+[submodule "svc"]
+	path = svc
+	url = https://github.com/johnko-chef/svc.git
