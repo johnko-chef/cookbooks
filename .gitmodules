@@ -28,3 +28,9 @@
 [submodule "postfix"]
 	path = postfix
 	url = https://github.com/johnko-chef/postfix.git
+[submodule "postfix-config"]
+	path = postfix-config
+	url = https://github.com/johnko-chef/postfix-config.git
+[submodule "dbmail-config"]
+	path = dbmail-config
+	url = https://github.com/johnko-chef/dbmail-config.git
