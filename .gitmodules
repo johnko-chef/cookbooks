@@ -34,3 +34,6 @@
 [submodule "dbmail-config"]
 	path = dbmail-config
 	url = https://github.com/johnko-chef/dbmail-config.git
+[submodule "dbmail"]
+	path = dbmail
+	url = https://github.com/johnko-chef/dbmail.git
