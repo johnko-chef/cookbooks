@@ -16,9 +16,6 @@
 [submodule "iptables"]
 	path = iptables
 	url = https://github.com/johnko-chef/iptables.git
-[submodule "sshd-config"]
-	path = sshd-config
-	url = https://github.com/johnko-chef/sshd-config.git
 [submodule "sysrc"]
 	path = sysrc
 	url = https://github.com/johnko-chef/sysrc.git
@@ -37,3 +34,6 @@
 [submodule "dbmail"]
 	path = dbmail
 	url = https://github.com/johnko-chef/dbmail.git
+[submodule "openssh-config"]
+	path = openssh-config
+	url = https://github.com/johnko-chef/openssh-config.git
